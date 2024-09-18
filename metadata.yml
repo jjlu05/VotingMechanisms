@@ -1,0 +1,12 @@
+---
+:id: 251478821
+:submitters:
+- :name: Jacob Lu
+  :email: jjlu@wpi.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-01 19:01:14.257523000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-01 12:01:14.257523000 Z
+:status: processed
+:score: 60.0
